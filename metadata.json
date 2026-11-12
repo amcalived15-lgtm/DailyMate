@@ -1,0 +1,6 @@
+{
+  "name": "DailyMate - Manajemen Tugas & Kalender",
+  "description": "Aplikasi manajemen tugas cerdas dengan integrasi kalender, pengingat otomatis, pelacakan progres, dan desain modern DailyMate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
